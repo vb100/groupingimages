@@ -1,7 +1,7 @@
 <h3>Python Automation project</h3>
 <b>Grouping image files by day based on image timestamp</b>
 
-<p>The live session of coding this is provided in Youtube channel.</p>
+<p>The live session of coding this is provided in Youtube channel: https://youtu.be/p5rp_mkkXro.</p>
 
 <p>The application should be launched via your terminal by typing following command with arguments:<br><code>python app.py --myimages images</code> where <i>images</i> is the folder name where you are keeping your images which should be grouped based on it's timestamp.</p>
 
